@@ -6,13 +6,13 @@ source ~/.config/neomutt/mappings
 
 # Accounts
 
-source ~/.config/neomutt/accounts/michaelguinane
+source ~/.config/neomutt/accounts/gmail
 folder-hook $folder 'source ~/.config/neomutt/accounts/gmail'
 
-source ~/.config/neomutt/accounts/toelessfoot
+source ~/.config/neomutt/accounts/netfirms
 folder-hook $folder 'source ~/.config/neomutt/accounts/netfirms'
 
-source ~/.config/neomutt/accounts/camstat
+source ~/.config/neomutt/accounts/netfirms
 folder-hook $folder 'source ~/.config/neomutt/accounts/netfirms'
 
 
