@@ -4,9 +4,9 @@ unmailboxes *
 # in/out mail servers
 set realname = ""
 set imap_pass = ""
-set smtp_url = "smtps://smtp.netfirms.com:465"
+set smtp_url = "smtps://@smtp.netfirms.com:465"
 set smtp_pass = ""
-set folder = "imaps://imap.netfirms.com:993"
+set folder = "imaps://@imap.netfirms.com:993"
 set spoolfile = "+INBOX"
 
 set from = ""
